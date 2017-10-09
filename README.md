@@ -1,5 +1,7 @@
 # datePickerTest
 
+Ref: https://github.com/ParadeTo/vue-date-range/issues/13
+
 ## Build Setup
 
 ``` bash
